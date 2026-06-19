@@ -4,6 +4,7 @@
 - Resilience4j 是一个轻量级、易于使用的熔断降级库，一般都是在应用代码集成！ （二选一,我更推荐这个）
 - tsid-creator 
 - Nacos 服务
+- HttpExchange 接口契约
 - Spring Boot Admin 服务
 - RocketMQ 集群
 - Redis 集群
