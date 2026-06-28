@@ -9,4 +9,4 @@
 - RocketMQ 集群
 - Redis 集群
 - MySQL 数据库
-
+- [fake json](https://jsonplaceholder.typicode.com/)
